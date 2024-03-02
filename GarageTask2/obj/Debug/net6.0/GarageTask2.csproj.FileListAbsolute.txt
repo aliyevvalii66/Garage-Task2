@@ -1,0 +1,14 @@
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\bin\Debug\net6.0\GarageTask2.exe
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\bin\Debug\net6.0\GarageTask2.deps.json
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\bin\Debug\net6.0\GarageTask2.runtimeconfig.json
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\bin\Debug\net6.0\GarageTask2.dll
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\bin\Debug\net6.0\GarageTask2.pdb
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.AssemblyInfoInputs.cache
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.AssemblyInfo.cs
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.csproj.CoreCompileInputs.cache
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.dll
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\refint\GarageTask2.dll
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.pdb
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.genruntimeconfig.cache
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\ref\GarageTask2.dll
