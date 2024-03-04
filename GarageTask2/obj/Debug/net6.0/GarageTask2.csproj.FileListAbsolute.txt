@@ -12,3 +12,4 @@ C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\refint\Gara
 C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.pdb
 C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.genruntimeconfig.cache
 C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\ref\GarageTask2.dll
+C:\Users\aliye\source\repos\GarageTask2\GarageTask2\obj\Debug\net6.0\GarageTask2.sourcelink.json

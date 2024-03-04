@@ -14,7 +14,7 @@
 
 //Task-2)İsdifadəçi 2 Dənə Ədəd  Daxil Edir n və m ədədləri. m Ədədinin n Qüvvətini Tapan Alqoritm Qurun.
 //Console.Write("Eded : ");
-//int n = int.Parse(Console.ReadLine()); 
+//int n = int.Parse(Console.ReadLine());
 //Console.Write("Ustu : ");
 //int m = int.Parse(Console.ReadLine());
 //int pow = 1;
@@ -54,7 +54,7 @@
 //int counter = 0;
 //while (number != 0)
 //{
-//    if(counter == 0 || counter == 4)
+//    if (counter == 0 || counter == 4)
 //    {
 //        sum += number % 10;
 //    }
@@ -66,7 +66,7 @@
 //    Console.WriteLine("Eded 5 reqemli deyil....");
 //    return;
 //}
-//Console.WriteLine($"Sum : {sum} , Pow : {Math.Pow(sum,2)}");
+//Console.WriteLine($"Sum : {sum} , Pow : {Math.Pow(sum, 2)}");
 
 
 
@@ -75,7 +75,7 @@
 //Console.Write("6 reqemli eded daxil edin : ");
 //int number = int.Parse(Console.ReadLine());
 //int sum = 0;
-//int counter = 0;
+//int counter = 0;    
 //while (number != 0)
 //{
 //    if (counter > 2)
@@ -85,7 +85,7 @@
 //    counter++;
 //    number /= 10;
 //}
-//if(counter > 6 || counter < 6)
+//if (counter > 6 || counter < 6)
 //{
 //    Console.WriteLine("Eded 6 reqemli deyil...");
 //    return;
@@ -103,12 +103,12 @@
 //int sum = 0;
 //string result = "";
 //int maxNumber = a;
-//if (b > a) 
+//if (b > a)
 //{
-//    maxNumber = b; 
+//    maxNumber = b;
 //    b = a;
 //}
-//for(int i = b; i <= maxNumber; i++)
+//for (int i = b; i <= maxNumber; i++)
 //{
 //    sum += i;
 //    if (i == maxNumber)
@@ -117,7 +117,7 @@
 //        break;
 //    }
 //    result += $"{i} + ";
-    
+
 //}
 //Console.WriteLine(result);
 
